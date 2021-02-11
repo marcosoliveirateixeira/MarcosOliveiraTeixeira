@@ -8,16 +8,18 @@ Em busca de aperfeiçoamento em cultura DevOPS :computer:
 :books: Atualmente cursando Análise e Desenvolvimento de sistemas na Faculdade
 
 <!--ts-->
-   :books:[Estudos](#Estudos)
-</br> :bookmark:[AWS](#AmazonWebServices)</br>
-</br> :bookmark:[DOCKER](#Docker)</br>
-</br> :bookmark:[ANSIBLE](#Ansible)</br>
-</br> :bookmark:[KUBERNETES](#Kubernetes)</br>
-</br> :bookmark:[GRAFANA](#Grafana)</br>
-</br> :bookmark:[JENKINS](#Jenkins)</br>
-</br> :bookmark:[GRADLE](#Gradle)</br>
-</br> :bookmark:[TERRAFORM](#TerraForm)</br>
+<ul> 
+ <li>:bookmark:[AWS](#AmazonWebServices)</li>
+ <li>:bookmark:[DOCKER](#Docker)</li>
+ <li>:bookmark:[ANSIBLE](#Ansible)</li>
+ <li>:bookmark:[KUBERNETES](#Kubernetes)</li>
+ <li>:bookmark:[GRAFANA](#Grafana)</li>
+ <li>:bookmark:[JENKINS](#Jenkins)</li>
+ <li>:bookmark:[GRADLE](#Gradle)</li>
+ <li>:bookmark:[TERRAFORM](#TerraForm)</li>
+</ul>
 <!--te-->
+
 
 <br/> Buscando cada vez mais entrar em projetos para colaborar com Node.js e PHP
 
