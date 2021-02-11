@@ -8,7 +8,7 @@ Em busca de aperfeiçoamento em cultura DevOPS :computer:
 :books: Atualmente cursando Análise e Desenvolvimento de sistemas na Faculdade
 
 <!--ts-->
-   :books:*[Estudos](#Estudos)
+   :books:[Estudos](#Estudos)
 </br> :bookmark:[AWS](#Amazon Web Services)
 </br> :bookmark:[DOCKER](#Docker)
 </br> :bookmark:[ANSIBLE](#Ansible)
