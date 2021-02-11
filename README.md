@@ -9,14 +9,14 @@ Em busca de aperfeiçoamento em cultura DevOPS :computer:
 
 <!--ts-->
 <ul> 
- <li>:bookmark:[AWS](#AmazonWebServices)</li>
- <li>:bookmark:[DOCKER](#Docker)</li>
- <li>:bookmark:[ANSIBLE](#Ansible)</li>
- <li>:bookmark:[KUBERNETES](#Kubernetes)</li>
- <li>:bookmark:[GRAFANA](#Grafana)</li>
- <li>:bookmark:[JENKINS](#Jenkins)</li>
- <li>:bookmark:[GRADLE](#Gradle)</li>
- <li>:bookmark:[TERRAFORM](#TerraForm)</li>
+ <li>:bookmark:[AWS]</li>
+ <li>:bookmark:[DOCKER]</li>
+ <li>:bookmark:[ANSIBLE]</li>
+ <li>:bookmark:[KUBERNETES]</li>
+ <li>:bookmark:[GRAFANA]</li>
+ <li>:bookmark:[JENKINS]</li>
+ <li>:bookmark:[GRADLE]</li>
+ <li>:bookmark:[TERRAFORM]</li>
 </ul>
 <!--te-->
 
