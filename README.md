@@ -9,13 +9,14 @@ Em busca de aperfeiçoamento em cultura DevOPS :computer:
 
 <!--ts-->
    :books:[Estudos](#Estudos)
-</br> :bookmark:[AWS](#AmazonWebServices)
-</br> :bookmark:[DOCKER](#Docker)
-</br> :bookmark:[ANSIBLE](#Ansible)
-</br> :bookmark:[KUBERNETES](#Kubernetes)
-</br> :bookmark:[GRAFANA](#Grafana)
-</br> :bookmark:[JENKINS](#Jenkins)
-</br> :bookmark:[GRADLE](#Gradle)         
+</br> :bookmark:[AWS](#AmazonWebServices)</br>
+</br> :bookmark:[DOCKER](#Docker)</br>
+</br> :bookmark:[ANSIBLE](#Ansible)</br>
+</br> :bookmark:[KUBERNETES](#Kubernetes)</br>
+</br> :bookmark:[GRAFANA](#Grafana)</br>
+</br> :bookmark:[JENKINS](#Jenkins)</br>
+</br> :bookmark:[GRADLE](#Gradle)</br>
+</br> :bookmark:[TERRAFORM](#TerraForm)</br>
 <!--te-->
 
 <br/> Buscando cada vez mais entrar em projetos para colaborar com Node.js e PHP
