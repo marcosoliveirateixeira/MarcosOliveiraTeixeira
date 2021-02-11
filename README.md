@@ -9,13 +9,13 @@ Em busca de aperfeiçoamento em cultura DevOPS :computer:
 
 <!--ts-->
    :books:*[Estudos](#Estudos)
-      :bookmark:*[AWS](#Amazon Web Services)
-      :bookmark:*[DOCKER](#Docker)
-      :bookmark:*[ANSIBLE](#Ansible)
-      :bookmark:*[KUBERNETES](#Kubernetes)
-      :bookmark:*[GRAFANA](#Grafana)
-      :bookmark:*[JENKINS](#Jenkins)
-      :bookmark:*[GRADLE](#Gradle)         
+      *:bookmark:[AWS](#Amazon Web Services)
+      *:bookmark:[DOCKER](#Docker)
+      *:bookmark:[ANSIBLE](#Ansible)
+      *:bookmark:[KUBERNETES](#Kubernetes)
+      *:bookmark:[GRAFANA](#Grafana)
+      *:bookmark:[JENKINS](#Jenkins)
+      *:bookmark:[GRADLE](#Gradle)         
 <!--te-->
 
 <br/> Buscando cada vez mais entrar em projetos para colaborar com Node.js e PHP
