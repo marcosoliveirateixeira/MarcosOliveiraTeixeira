@@ -1,27 +1,26 @@
-### Hi there 👋
+#### Hi there 👋
 
-# Marcos Gabriel Oliveira
+## Marcos Gabriel Oliveira
 
 Sou um apaixonado por inovações e um profissional em busca de desafios
 Em busca de aperfeiçoamento em cultura DevOPS :computer:
 
 :books: Atualmente cursando Análise e Desenvolvimento de sistemas na Faculdade
 
-<!--ts-->
-<ul> 
- <li>:bookmark:[AWS]</li>
- <li>:bookmark:[DOCKER]</li>
- <li>:bookmark:[ANSIBLE]</li>
- <li>:bookmark:[KUBERNETES]</li>
- <li>:bookmark:[GRAFANA]</li>
- <li>:bookmark:[JENKINS]</li>
- <li>:bookmark:[GRADLE]</li>
- <li>:bookmark:[TERRAFORM]</li>
-</ul>
-<!--te-->
+#Estudo focado em CI/CD com as Principais Ferramentas do Mercado e os principais conceitos para aplicação da cultura DevOPS
+
+#Git
+#Linux
+#Networking & Security
+#Docker
+#Jenkins
+#AWS
+#Kubernetes 
+#Grafana
+#TerraForm
 
 
-<br/> Buscando cada vez mais entrar em projetos para colaborar com Node.js e PHP
+<br/> Buscando cada vez mais entrar em projetos para colaborar com Node.js e PHP(linguagens de aprendizagem e paixões)
 
 <br/> Amante de tecnologias e games.
 
